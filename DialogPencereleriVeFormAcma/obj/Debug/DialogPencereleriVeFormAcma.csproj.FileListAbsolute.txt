@@ -1,0 +1,11 @@
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\bin\Debug\DialogPencereleriVeFormAcma.exe.config
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\bin\Debug\DialogPencereleriVeFormAcma.exe
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\bin\Debug\DialogPencereleriVeFormAcma.pdb
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.Form1.resources
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.Properties.Resources.resources
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.csproj.GenerateResource.cache
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.exe
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.pdb
+C:\Users\303\source\repos\DialogPencereleriVeFormAcma\DialogPencereleriVeFormAcma\obj\Debug\DialogPencereleriVeFormAcma.exe.config
