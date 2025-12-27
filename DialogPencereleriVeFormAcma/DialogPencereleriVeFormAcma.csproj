@@ -46,16 +46,85 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AcilacakDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcilacakDialog.Designer.cs">
+      <DependentUpon>AcilacakDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcilacakForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcilacakForm.Designer.cs">
+      <DependentUpon>AcilacakForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaForm.Designer.cs">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GirisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisForm.Designer.cs">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kategoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategoriler.Designer.cs">
+      <DependentUpon>Kategoriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI_Ana_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI_Ana_Form.Designer.cs">
+      <DependentUpon>MDI_Ana_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxlarVeKullanimlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxlarVeKullanimlari.Designer.cs">
+      <DependentUpon>MessageBoxlarVeKullanimlari.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tedarikciler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tedarikciler.Designer.cs">
+      <DependentUpon>Tedarikciler.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcilacakDialog.resx">
+      <DependentUpon>AcilacakDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcilacakForm.resx">
+      <DependentUpon>AcilacakForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaForm.resx">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisForm.resx">
+      <DependentUpon>GirisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategoriler.resx">
+      <DependentUpon>Kategoriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI_Ana_Form.resx">
+      <DependentUpon>MDI_Ana_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxlarVeKullanimlari.resx">
+      <DependentUpon>MessageBoxlarVeKullanimlari.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +135,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Tedarikciler.resx">
+      <DependentUpon>Tedarikciler.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -16,7 +16,7 @@ namespace DialogPencereleriVeFormAcma
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MDI_Ana_Form());
         }
     }
 }
