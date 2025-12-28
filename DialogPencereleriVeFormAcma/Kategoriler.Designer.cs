@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.tb_name = new System.Windows.Forms.TextBox();
-            this.tb_description = new System.Windows.Forms.TextBox();
-            this.btn_ekle = new System.Windows.Forms.Button();
             this.btn_iptal = new System.Windows.Forms.Button();
+            this.btn_ekle = new System.Windows.Forms.Button();
+            this.tb_description = new System.Windows.Forms.TextBox();
+            this.tb_name = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,38 +53,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Kategori Bilgileri";
             // 
-            // label1
+            // btn_iptal
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(15, 27);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(72, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "kategori Adı =";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(15, 54);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(62, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Açıklama = ";
-            // 
-            // tb_name
-            // 
-            this.tb_name.Location = new System.Drawing.Point(93, 24);
-            this.tb_name.Name = "tb_name";
-            this.tb_name.Size = new System.Drawing.Size(232, 20);
-            this.tb_name.TabIndex = 2;
-            // 
-            // tb_description
-            // 
-            this.tb_description.Location = new System.Drawing.Point(93, 51);
-            this.tb_description.Multiline = true;
-            this.tb_description.Name = "tb_description";
-            this.tb_description.Size = new System.Drawing.Size(232, 65);
-            this.tb_description.TabIndex = 2;
+            this.btn_iptal.Location = new System.Drawing.Point(331, 93);
+            this.btn_iptal.Name = "btn_iptal";
+            this.btn_iptal.Size = new System.Drawing.Size(107, 23);
+            this.btn_iptal.TabIndex = 3;
+            this.btn_iptal.Text = "İptal Et ve Kapat";
+            this.btn_iptal.UseVisualStyleBackColor = true;
+            this.btn_iptal.Click += new System.EventHandler(this.btn_iptal_Click);
             // 
             // btn_ekle
             // 
@@ -96,15 +73,38 @@
             this.btn_ekle.Text = "Ekle";
             this.btn_ekle.UseVisualStyleBackColor = true;
             // 
-            // btn_iptal
+            // tb_description
             // 
-            this.btn_iptal.Location = new System.Drawing.Point(331, 93);
-            this.btn_iptal.Name = "btn_iptal";
-            this.btn_iptal.Size = new System.Drawing.Size(107, 23);
-            this.btn_iptal.TabIndex = 3;
-            this.btn_iptal.Text = "İptal Et ve Kapat";
-            this.btn_iptal.UseVisualStyleBackColor = true;
-            this.btn_iptal.Click += new System.EventHandler(this.btn_iptal_Click);
+            this.tb_description.Location = new System.Drawing.Point(93, 51);
+            this.tb_description.Multiline = true;
+            this.tb_description.Name = "tb_description";
+            this.tb_description.Size = new System.Drawing.Size(232, 65);
+            this.tb_description.TabIndex = 2;
+            // 
+            // tb_name
+            // 
+            this.tb_name.Location = new System.Drawing.Point(93, 24);
+            this.tb_name.Name = "tb_name";
+            this.tb_name.Size = new System.Drawing.Size(232, 20);
+            this.tb_name.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(15, 54);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(62, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Açıklama = ";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(15, 27);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(72, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "kategori Adı =";
             // 
             // Kategoriler
             // 
@@ -114,6 +114,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Kategoriler";
             this.Text = "Kategoriler";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
