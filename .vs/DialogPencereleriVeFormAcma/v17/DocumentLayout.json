@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\mdi_ana_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\mdi_ana_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|c:\\users\\303\\documents\\github\\diologpencereleriveformacma\\dialogpencereleriveformacma\\kategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\kategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\kategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\mdi_ana_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\mdi_ana_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\mdi_ana_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|solutionrelative:dialogpencereleriveformacma\\mdi_ana_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBA2F4AE-C962-4668-A18B-260D613D6D3E}|DialogPencereleriVeFormAcma\\DialogPencereleriVeFormAcma.csproj|C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\dialogpencereleriveformacma\\messageboxlarvekullanimlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 185,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,19 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "GirisForm.cs",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\GirisForm.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\GirisForm.cs",
               "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\GirisForm.cs",
               "RelativeToolTip": "DialogPencereleriVeFormAcma\\GirisForm.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAApwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T14:04:42.043Z"
+              "WhenOpened": "2025-12-27T14:04:42.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\Program.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\Program.cs",
@@ -106,23 +107,23 @@
               "RelativeToolTip": "DialogPencereleriVeFormAcma\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T14:04:22.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T14:04:22.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GirisForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\GirisForm.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\GirisForm.cs",
               "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\GirisForm.cs [Design]",
               "RelativeToolTip": "DialogPencereleriVeFormAcma\\GirisForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T14:01:32.951Z"
+              "WhenOpened": "2025-12-27T14:01:32.951Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Kategoriler.cs",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\Kategoriler.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\Kategoriler.cs",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MDI_Ana_Form.cs",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs",
@@ -143,11 +144,12 @@
               "RelativeToolTip": "DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAUwBEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T13:37:41.027Z"
+              "WhenOpened": "2025-12-27T13:37:41.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Kategoriler.cs [Design]",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\Kategoriler.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\Kategoriler.cs",
@@ -159,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Tedarikciler.cs [Design]",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\Tedarikciler.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\Tedarikciler.cs",
@@ -170,14 +172,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "MDI_Ana_Form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs",
               "RelativeDocumentMoniker": "DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs",
               "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\DiologPencereleriVeFormAcma\\DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs [Design]",
               "RelativeToolTip": "DialogPencereleriVeFormAcma\\MDI_Ana_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T13:19:05.382Z"
+              "WhenOpened": "2025-12-27T13:19:05.382Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

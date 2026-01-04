@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.tb_kullaniciAdi = new System.Windows.Forms.TextBox();
-            this.tb_sifre = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.tb_sifre = new System.Windows.Forms.TextBox();
+            this.tb_kullaniciAdi = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,37 +53,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Giriş Bilgileri";
             // 
-            // label1
+            // button2
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 29);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Kullanıcı Adı";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(8, 76);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(28, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Şifre";
-            // 
-            // tb_kullaniciAdi
-            // 
-            this.tb_kullaniciAdi.Location = new System.Drawing.Point(9, 45);
-            this.tb_kullaniciAdi.Name = "tb_kullaniciAdi";
-            this.tb_kullaniciAdi.Size = new System.Drawing.Size(295, 20);
-            this.tb_kullaniciAdi.TabIndex = 2;
-            // 
-            // tb_sifre
-            // 
-            this.tb_sifre.Location = new System.Drawing.Point(11, 92);
-            this.tb_sifre.Name = "tb_sifre";
-            this.tb_sifre.Size = new System.Drawing.Size(293, 20);
-            this.tb_sifre.TabIndex = 3;
+            this.button2.Location = new System.Drawing.Point(227, 118);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "Giriş Yap";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -95,15 +73,37 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // tb_sifre
             // 
-            this.button2.Location = new System.Drawing.Point(227, 118);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "Giriş Yap";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.tb_sifre.Location = new System.Drawing.Point(11, 92);
+            this.tb_sifre.Name = "tb_sifre";
+            this.tb_sifre.Size = new System.Drawing.Size(293, 20);
+            this.tb_sifre.TabIndex = 3;
+            // 
+            // tb_kullaniciAdi
+            // 
+            this.tb_kullaniciAdi.Location = new System.Drawing.Point(9, 45);
+            this.tb_kullaniciAdi.Name = "tb_kullaniciAdi";
+            this.tb_kullaniciAdi.Size = new System.Drawing.Size(295, 20);
+            this.tb_kullaniciAdi.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(8, 76);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(28, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Şifre";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 29);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(64, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Kullanıcı Adı";
             // 
             // GirisForm
             // 
